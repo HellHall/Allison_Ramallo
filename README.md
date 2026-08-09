@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Allison 👋
 
-<!--
-**HellHall/HellHall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Estudiante de Ing. de Sistemas en la **UPDS (Universidad Privada Domingo Savio)** 🎓,
+aprendiendo a construir soluciones con código 💻.
+Actualmente enfocada en fortalecer mis bases en programación y desarrollo web,
+mientras avanzo en mi formación académica.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- **Lenguajes:** Python, HTML, CSS, JavaScript
+- **Frameworks/Librerías:** Bootstrap
+- **Herramientas:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos destacados
+- [Aprendiendo Python](https://github.com/HellHall/APRENDIENDOPYTHON) - Ejercicios y prácticas para aprender los fundamentos de Python.
+- [Diseño Web I](https://github.com/HellHall/Dise-o-Web-1) - Repositorio de la materia de Diseño Web, marzo 2026.
+
+## 📫 Contacto
+- LinkedIn: [Allison Ramallo](https://www.linkedin.com/in/allison-ramallo-8b7482386)
+- Email: allisonramallopena@gmail.com
