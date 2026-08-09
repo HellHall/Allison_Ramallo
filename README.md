@@ -12,8 +12,8 @@ mientras avanzo en mi formación académica.
 - **Herramientas:** Git, GitHub, VS Code
 
 ## 📂 Proyectos destacados
-- [Aprendiendo Python](https://github.com/HellHall/APRENDIENDOPYTHON) - Ejercicios y prácticas para aprender los fundamentos de Python.
-- [Diseño Web I](https://github.com/HellHall/Dise-o-Web-1) - Repositorio de la materia de Diseño Web, marzo 2026.
+- [Proyectos JavaScript Básico](https://github.com/HellHall/Proyectos-JavaScript-Bsico) - Ejercicios con `prompt()`, `alert()` y condicionales en JavaScript.
+- [Diseño Web con Angular](https://github.com/HellHall/DisWeb-con-Angular) - Proyecto práctico usando Angular como framework de desarrollo web.
 
 ## 📫 Contacto
 - LinkedIn: [Allison Ramallo](https://www.linkedin.com/in/allison-ramallo-8b7482386)
